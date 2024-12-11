@@ -57,7 +57,7 @@ Predicted Label: Virginica
 - Modify the dataset loading path in the script if neccessary.
 
 ## License
-This project is licensed under the MIT License
+This project is licensed under the <u style="color:blue">MIT License</u>
 
 ## Author
-Developed by [Taek][https://github.com/MathTaek/CAU-AID-Class.git]
+Developed by [Taek](https://github.com/MathTaek/CAU-AID-Class.git)

@@ -60,4 +60,4 @@ Predicted Label: Virginica
 This project is licensed under the MIT License
 
 ## Author
-Developed by [Taek][]
+Developed by [Taek][https://github.com/MathTaek/CAU-AID-Class.git]
